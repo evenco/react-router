@@ -1,6 +1,6 @@
 {
-  "name": "react-router",
-  "version": "1.0.0",
+  "name": "@evenco/react-router",
+  "version": "1.0.0-even.3",
   "description": "A complete routing library for React.js",
   "files": [
     "*.md",
@@ -34,15 +34,11 @@
     "invariant": "^2.0.0",
     "warning": "^2.0.0"
   },
-  "peerDependencies": {
-    "history": "^1.12.0"
-  },
   "devDependencies": {
     "babel": "^5.4.7",
     "babel-core": "^5.4.7",
     "babel-eslint": "^3.1.23",
     "babel-loader": "^5.0.0",
-    "babel-plugin-dev-expression": "^0.1.0",
     "bundle-loader": "^0.5.2",
     "codecov.io": "^0.1.6",
     "coveralls": "^2.11.4",
