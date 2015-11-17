@@ -1,6 +1,6 @@
 {
-  "name": "@evenco/react-router",
-  "version": "1.0.0-even.3",
+  "name": "react-router",
+  "version": "1.0.0",
   "description": "A complete routing library for React.js",
   "files": [
     "*.md",
